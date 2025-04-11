@@ -21,7 +21,6 @@ LangGraph AI Agent is a chatbot application that allows users to interact with A
 │── README.md            # Project documentation
 ```
 
-
 ## Setup Instructions  
 
 ### 1. Install Dependencies  
