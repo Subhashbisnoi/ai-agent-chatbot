@@ -74,6 +74,7 @@ The response from the AI agent will be displayed on the UI.
   "allow_search": false
 }
 ```
+
 - **Response Example:**  
 ```json
 {
